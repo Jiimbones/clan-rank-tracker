@@ -1,0 +1,5 @@
+[
+  {"id": 3, "playerId": 9, "oldName": "Fally Knight", "newName": "Fally Kn1ght", "status": "approved", "resolvedAt": "2026-11-20T10:00:00.000Z"},
+  {"id": 2, "playerId": 9, "oldName": "Fake Prior", "newName": "Fally Knight", "status": "denied"},
+  {"id": 1, "playerId": 9, "oldName": "Squire Fal", "newName": "Fally Knight", "status": "approved"}
+]
